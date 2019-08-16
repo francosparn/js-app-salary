@@ -1,4 +1,4 @@
-# appSalaryWeb
+# appSalaryWeb by Franco Sparn
 
 What is appSalaryDev?
 

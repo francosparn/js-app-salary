@@ -1,5 +1,3 @@
-// Cotizador constructor
-
 class Sueldo {
     constructor(lenguaje, categoria) {
         this.lenguaje = lenguaje;

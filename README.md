@@ -14,5 +14,5 @@ Technologies used: HTML, CSS, Bootstrap4 and JavaScript (ES6).
 
 ![](https://i.imgur.com/noj9zMf.png)
 ![](https://i.imgur.com/GAa4eJ7.png)
-![](https://i.imgur.com/YPo8fgD.png)
+![](https://i.imgur.com/lKqjT2A.png)
 ![](https://i.imgur.com/X3tbTBr.png)

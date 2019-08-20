@@ -1,6 +1,6 @@
 # appSalaryWeb by Franco Sparn
 
-What is appSalaryDev?
+What is <b>appSalaryDev</b>?
 
 This application shows the salary of software developers according to the language used and work experience.
 

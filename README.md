@@ -1,7 +1,5 @@
 # appSalaryWeb
 
-What is <b>appSalaryDev</b>?
-
 This application shows the salary of software developers according to the language used and work experience.
 
 The application has a form which contains two fields, in one of them you will have to select a programming language and in the remaining field you will have to choose the category of the developer (Trainee, Junior, Semi Senior or Senior).
